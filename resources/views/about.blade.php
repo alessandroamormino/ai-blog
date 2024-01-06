@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-app-layout meta-title="The AI Generated Blog - About us page" meta-description="AI Blog - About us">
 	<section class="w-full flex flex-col items-center px-3">
 
 		<article class="w-full flex flex-col shadow my-4">
