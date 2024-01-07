@@ -186,4 +186,7 @@ return [
         // 'Example' => App\Facades\Example::class,
     ])->toArray(),
 
+	// SerpApi
+	'serpapi_key' => env('SERPAPI_KEY', ''),
+
 ];
