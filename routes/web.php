@@ -22,4 +22,4 @@ Route::get('/category/{category:slug}', [PostController::class,'byCategory'])->n
 Route::get('/{post:slug}', [PostController::class,'show'])->name('view');
 
 // Rotta test per risultati chiamata API Keywords
-Route::get('/', [Keywords::class,'getKeywords'])->name('home');
+// Route::get('/', [Keywords::class,'getKeywords'])->name('home');

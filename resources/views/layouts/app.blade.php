@@ -27,10 +27,10 @@
 			border-radius: .5rem;
 			margin-bottom: 1rem;
 		}
-		article img {
+		/* article img {
 			max-height: 300px;
 			object-fit: cover
-		}
+		} */
     </style>
 
     <!-- AlpineJS -->
